@@ -20,14 +20,14 @@ patch:
   "preset_color_schemes/windows10":
     back_color: 0xffffff
     border_color: 0xcc8f29
-    candidate_text_color: 0x69500D
+    candidate_text_color: 0x2B1C03
     comment_text_color: 0x888888
     hilited_back_color: 0xffffff
-    hilited_candidate_back_color: 0xcc8f29
-    hilited_candidate_text_color: 0xffffff
+    hilited_candidate_back_color: 0xEBA210
+    hilited_candidate_text_color: 0x1C1002
     hilited_comment_text_color: 0xffffff
     hilited_label_color: 0xffffff
-    hilited_text_color: 0x69500D
+    hilited_text_color: 0x2B1B03
     label_color: 0x888888
     name: "Windows 10"
     text_color: 0x000000
