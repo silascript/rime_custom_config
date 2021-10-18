@@ -17,20 +17,20 @@ patch:
     hilited_text_color: 0x2C2823
     name: "blue whiteI"
     text_color: 0x0F0C01
-  "preset_color_schemes/windows10":
+  "preset_color_schemes/BlueAndRed":
     back_color: 0xffffff
     border_color: 0xcc8f29
     candidate_text_color: 0x2B1C03
     comment_text_color: 0x888888
     hilited_back_color: 0xffffff
-    hilited_candidate_back_color: 0xEBA210
-    hilited_candidate_text_color: 0x1C1002
+    hilited_candidate_back_color: 0xffffff
+    hilited_candidate_text_color: 0x1A0AAB
     hilited_comment_text_color: 0xffffff
-    hilited_label_color: 0xffffff
+    hilited_label_color: 0x1A0AAB
     hilited_text_color: 0x2B1B03
     label_color: 0x888888
-    name: "Windows 10"
+    name: "BlueAndRed"
     text_color: 0x000000
-  "style/color_scheme": windows10
+  "style/color_scheme": BlueAndRed
   "style/font_point": 20
   "translator/enable_completion": true
