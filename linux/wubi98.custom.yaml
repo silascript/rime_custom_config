@@ -10,5 +10,5 @@ patch:
   - name: ascii_punct
     states: [ 。，, ．， ]
   - name: simplification
-    reset: 1
+    reset: 0
     states: [ 漢字, 汉字 ]
