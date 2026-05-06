@@ -12,3 +12,11 @@ patch:
   - name: simplification
     reset: 0
     states: [ 漢字, 汉字 ]
+  punctuator:
+    import_preset: symbols
+  recognizer:
+    import_preset: default
+    patterns:
+      reverse_lookup: "^z[a-z]*$"
+      punct: "^/[a-z]+$"
+
